@@ -64,8 +64,8 @@ This simulator uses **classical state-vector simulation**, storing the full 2ⁿ
 
 ```bash
 # Clone the repository
-git clone https://github.com/rasidi3112/quantum-circuit-lab.git
-cd quantum-circuit-lab
+git clone https://github.com/rasidi3112/quantum-lab-circuit.git
+cd quantum-lab-circuit
 
 # Serve locally (no build step required)
 npx serve .
